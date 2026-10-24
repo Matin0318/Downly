@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">دانلی</string>
+    <string name="channel_progress">دانلودهای در جریان</string>
+    <string name="channel_done">دانلودهای پایان‌یافته</string>
+</resources>

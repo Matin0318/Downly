@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Downly</string>
+    <string name="channel_progress">Active downloads</string>
+    <string name="channel_done">Finished downloads</string>
+</resources>
